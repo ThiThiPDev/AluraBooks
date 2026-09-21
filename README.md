@@ -32,5 +32,5 @@ Este projeto consiste em uma página responsiva da Alura Books, desenvolvida com
 
 1. Clone este repositório para sua máquina local.
 2. Abra o arquivo `index.html` em seu navegador web.
-3. Ou, [Clique aqui](https://alura-book-mocha.vercel.app).
+3. Ou, [Clique aqui](https://alura-books-roan-nu.vercel.app).
 4. Explore o AluraBooks e conheça o projeto!
