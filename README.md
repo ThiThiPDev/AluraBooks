@@ -24,7 +24,7 @@ Este projeto consiste em uma página responsiva da Alura Books, desenvolvida com
 - 🔄 **Carrosséis de livros**: Exibição de lançamentos e livros mais vendidos utilizando o SwiperJS para navegação entre os conteúdos.
 - 💡 **Cards de recomendação**: Apresentação de livros e autores recomendados, com informações, imagens e opções para favoritar ou adicionar ao carrinho.
 - 🔎 **Tópicos visitados recentemente**: Exibição de assuntos relacionados à tecnologia, como Android, Marketing Digital, Agile, Startups, HTML & CSS, Python, OO e Java.
-- 🔗 **Redirecionamento para o site oficial**: Os elementos interativos da página possuem links que direcionam o usuário para o site oficial da Casa do Código ao serem clicados.
+- 🔗 **Redirecionamento para o site oficial**: Alguns elementos interativos da página possuem links que direcionam o usuário para o site oficial da Casa do Código ao serem clicados.
 - 💻 **Layout responsivo**: Os elementos da página são reorganizados e redimensionados de acordo com o dispositivo utilizado.
 
 
